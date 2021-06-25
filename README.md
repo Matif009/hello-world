@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi it's me Mohammad Atif
+want to learn how to use github
